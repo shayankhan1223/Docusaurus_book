@@ -1,0 +1,29 @@
+{
+  "id": "chapter2",
+  "title": "Chapter 2: ROS 2 Fundamentals for Humanoid Robots",
+  "description": "1. Conceptual Foundation",
+  "source": "@site/docs/chapter2.md",
+  "sourceDirName": ".",
+  "slug": "/chapter2",
+  "permalink": "/docs/chapter2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shayankhan1223/docusaurus-docs/tree/main/docs/chapter2.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 942,
+  "frontMatter": {
+    "sidebar_label": "Chapter 2: ROS 2 Fundamentals for Humanoid Robots",
+    "sidebar_position": 942,
+    "title": "Chapter 2: ROS 2 Fundamentals for Humanoid Robots"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 1: Introduction to Physical AI and Embodied Intelligence",
+    "permalink": "/docs/chapter1"
+  },
+  "next": {
+    "title": "Chapter 3: Simulation Environments - Gazebo, Isaac, Unity",
+    "permalink": "/docs/chapter3"
+  }
+}

@@ -1,0 +1,136 @@
+/**
+ * Custom CSS for the documentation site
+ */
+
+/* Custom color palette */
+:root {
+  --ifm-color-primary: #25c2a0;
+  --ifm-color-primary-dark: #21af90;
+  --ifm-color-primary-darker: #1fa588;
+  --ifm-color-primary-darkest: #1a8870;
+  --ifm-color-primary-light: #29d5b0;
+  --ifm-color-primary-lighter: #32d8b4;
+  --ifm-color-primary-lightest: #4fddbf;
+  --ifm-code-font-size: 95%;
+}
+
+/* Dark theme adjustments */
+html[data-theme='dark'] {
+  --ifm-color-primary: #25c2a0;
+  --ifm-color-primary-dark: #21af90;
+  --ifm-color-primary-darker: #1fa588;
+  --ifm-color-primary-darkest: #1a8870;
+  --ifm-color-primary-light: #29d5b0;
+  --ifm-color-primary-lighter: #32d8b4;
+  --ifm-color-primary-lightest: #4fddbf;
+}
+
+/* Custom styling for professional look */
+.hero--primary {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+}
+
+.hero__title {
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.hero__subtitle {
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+  opacity: 0.9;
+}
+
+.button--secondary {
+  background-color: white;
+  color: #667eea;
+  border: none;
+}
+
+.button--secondary:hover {
+  background-color: #f8f9fa;
+  color: #5a67d8;
+}
+
+/* Footer styling */
+.footer--dark {
+  background-color: #1a202c;
+}
+
+/* Feature section styling */
+.features {
+  background-color: #f8fafc;
+  padding: 4rem 0;
+}
+
+html[data-theme='dark'] .features {
+  background-color: #1a202c;
+}
+
+/* Additional features styling */
+.features .container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Custom styling for navigation */
+.navbar {
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.navbar__title {
+  font-weight: 600;
+}
+
+/* Language dropdown styling */
+.navbar__item {
+  font-weight: 500;
+}
+
+/* RTL support for Urdu */
+html[dir="rtl"] body {
+  direction: rtl;
+  text-align: right;
+}
+
+/* Custom styling for documentation content */
+.markdown h1,
+.markdown h2,
+.markdown h3,
+.markdown h4,
+.markdown h5,
+.markdown h6 {
+  font-weight: 600;
+}
+
+/* Code block styling */
+.prism-code {
+  border-radius: 0.5rem;
+  padding: 1rem;
+}
+
+/* Table styling */
+.markdown table {
+  display: table;
+}
+
+.markdown table th,
+.markdown table td {
+  border: 1px solid var(--ifm-table-border-color);
+  padding: 0.75rem;
+  text-align: left;
+}
+
+html[data-theme='dark'] .markdown table th,
+html[data-theme='dark'] .markdown table td {
+  border-color: var(--ifm-table-border-color);
+}
+
+/* Alert styling */
+.alert {
+  border-radius: 0.5rem;
+  border: none;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}

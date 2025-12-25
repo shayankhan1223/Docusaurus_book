@@ -1,0 +1,20 @@
+{
+  "id": "index",
+  "title": "Physical AI and Robotics: A Comprehensive Guide to Embodied Intelligence",
+  "description": "Welcome to the Complete Textbook",
+  "source": "@site/docs/index.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/docs/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shayankhan1223/docusaurus-docs/tree/main/docs/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 595,
+  "frontMatter": {
+    "sidebar_label": "Physical AI and Robotics: A Comprehensive Guide to Embodied Intelligence",
+    "sidebar_position": 595,
+    "title": "Physical AI and Robotics: A Comprehensive Guide to Embodied Intelligence"
+  }
+}

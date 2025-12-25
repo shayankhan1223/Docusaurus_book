@@ -1,0 +1,158 @@
+{
+  "theme.ErrorPageContent.title": {
+    "message": "صفحہ میں کچھ خرابی ہے",
+    "description": "The title of the fallback page when the page errors"
+  },
+  "theme.ErrorPageContent.tryAgain": {
+    "message": "دوبارہ کوشش کریں",
+    "description": "The label of the button to try again when the page errors"
+  },
+  "theme.NotFound.title": {
+    "message": "صفحہ نہیں ملا",
+    "description": "The title of the 404 page"
+  },
+  "theme.NotFound.p1": {
+    "message": "آپ جو صفحہ تلاش کر رہے تھے وہ ہمیں نہیں ملا۔",
+    "description": "The first paragraph of the 404 page"
+  },
+  "theme.NotFound.p2": {
+    "message": "براہ کرم سائٹ کے منتظم سے رابطہ کریں تاکہ وہ صفحہ ہٹا دیں۔",
+    "description": "The 2nd paragraph of the 404 page"
+  },
+  "theme.admonition.note": {
+    "message": "نوٹ",
+    "description": "The default label used for the Note admonition (:::note)"
+  },
+  "theme.admonition.tip": {
+    "message": "ٹپ",
+    "description": "The default label used for the Tip admonition (:::tip)"
+  },
+  "theme.admonition.danger": {
+    "message": "خطرہ",
+    "description": "The default label used for the Danger admonition (:::danger)"
+  },
+  "theme.admonition.info": {
+    "message": "معلومات",
+    "description": "The default label used for the Info admonition (:::info)"
+  },
+  "theme.admonition.caution": {
+    "message": "احتیاط",
+    "description": "The default label used for the Caution admonition (:::caution)"
+  },
+  "theme.NavBar.navAriaLabel": {
+    "message": "Navigation bar",
+    "description": "The ARIA label for the main navigation"
+  },
+  "theme.blog.archive.title": {
+    "message": ".archives",
+    "description": "The page title for the blog archive"
+  },
+  "theme.blog.archive.description": {
+    "message": "Archives",
+    "description": "The page description for the blog archive"
+  },
+  "theme.blog.paginator.navAriaLabel": {
+    "message": "Blog list page navigation",
+    "description": "The ARIA label for the blog pagination"
+  },
+  "theme.blog.paginator.newerEntries": {
+    "message": "Newer Entries",
+    "description": "The label used to navigate to the newer blog entries"
+  },
+  "theme.blog.paginator.olderEntries": {
+    "message": "Older Entries",
+    "description": "The label used to navigate to the older blog entries"
+  },
+  "theme.blog.post.paginator.navAriaLabel": {
+    "message": "Blog post page navigation",
+    "description": "The ARIA label for the blog posts pagination"
+  },
+  "theme.blog.post.paginator.newerPost": {
+    "message": "Newer Post",
+    "description": "The label used to navigate to the newer blog post"
+  },
+  "theme.blog.post.paginator.olderPost": {
+    "message": "Older Post",
+    "description": "The label used to navigate to the older blog post"
+  },
+  "theme.colorToggle.ariaLabel": {
+    "message": "Color toggle",
+    "description": "The ARIA label for the navbar color mode toggle"
+  },
+  "theme.colorToggle.ariaLabel.dark": {
+    "message": "Switch to dark mode",
+    "description": "The ARIA label for the navbar dark mode toggle"
+  },
+  "theme.colorToggle.ariaLabel.light": {
+    "message": "Switch to light mode",
+    "description": "The ARIA label for the navbar light mode toggle"
+  },
+  "theme.docs.breadcrumbs.navAriaLabel": {
+    "message": "Breadcrumbs",
+    "description": "The ARIA label for the breadcrumbs"
+  },
+  "theme.docs.paginator.navAriaLabel": {
+    "message": "Docs pages",
+    "description": "The ARIA label for the docs pagination"
+  },
+  "theme.docs.paginator.previous": {
+    "message": "پچھلا",
+    "description": "The label used to navigate to the previous doc"
+  },
+  "theme.docs.paginator.next": {
+    "message": "اگلا",
+    "description": "The label used to navigate to the next doc"
+  },
+  "theme.docs.sidebar.collapseButtonTitle": {
+    "message": "Collapse sidebar",
+    "description": "The title attribute for the collapse button of doc sidebar"
+  },
+  "theme.docs.sidebar.collapseButtonAriaLabel": {
+    "message": "Collapse sidebar",
+    "description": "The title attribute for the collapse button of doc sidebar"
+  },
+  "theme.docs.sidebar.navAriaLabel": {
+    "message": "Docs sidebar",
+    "description": "The ARIA label for the sidebar navigation"
+  },
+  "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
+    "message": "Close navigation bar",
+    "description": "The ARIA label for close button of mobile sidebar"
+  },
+  "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
+    "message": "← Back to main menu",
+    "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar"
+  },
+  "theme.navbar.mobileVersionsDropdown.label": {
+    "message": "Versions",
+    "description": "The label for the navbar versions dropdown on mobile"
+  },
+  "theme.common.skipToMainContent": {
+    "message": "Skip to main content",
+    "description": "The skip to content label used for accessibility"
+  },
+  "theme.TOCCollapsible.toggleButtonLabel": {
+    "message": "On this page",
+    "description": "The label used by the button on the collapsible TOC component"
+  },
+  "theme.CodeBlock.copied": {
+    "message": "Copied",
+    "description": "The copied button label on code blocks"
+  },
+  "theme.CodeBlock.copyButtonAriaLabel": {
+    "message": "Copy code to clipboard",
+    "description": "The ARIA label for copy code blocks button"
+  },
+  "theme.CodeBlock.copy": {
+    "message": "Copy",
+    "description": "The copy button label on code blocks"
+  },
+  "theme.CodeBlock.wordWrapToggle": {
+    "message": "Toggle word wrap",
+    "description": "The title attribute for toggle word wrapping button of code block lines"
+  },
+  "theme.navbar.mobileLanguageDropdown.label": {
+    "message": "Languages",
+    "description": "The label for the mobile language switcher dropdown"
+  }
+}

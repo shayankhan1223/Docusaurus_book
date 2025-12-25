@@ -1,0 +1,29 @@
+{
+  "id": "chapter7",
+  "title": "Chapter 7: Vision-Language-Action Pipeline",
+  "description": "1. Conceptual Foundation",
+  "source": "@site/docs/chapter7.md",
+  "sourceDirName": ".",
+  "slug": "/chapter7",
+  "permalink": "/docs/chapter7",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shayankhan1223/docusaurus-docs/tree/main/docs/chapter7.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 745,
+  "frontMatter": {
+    "sidebar_label": "Chapter 7: Vision-Language-Action Pipeline",
+    "sidebar_position": 745,
+    "title": "Chapter 7: Vision-Language-Action Pipeline"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 6: Control Systems and Actuation",
+    "permalink": "/docs/chapter6"
+  },
+  "next": {
+    "title": "Chapter 8: Humanoid-Specific Challenges and Solutions",
+    "permalink": "/docs/chapter8"
+  }
+}

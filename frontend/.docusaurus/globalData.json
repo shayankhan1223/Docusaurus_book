@@ -1,0 +1,105 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "BOOK_COMPLETION_STATUS",
+              "path": "/docs/BOOK_COMPLETION_STATUS"
+            },
+            {
+              "id": "book_summary",
+              "path": "/docs/book_summary",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chapter1",
+              "path": "/docs/chapter1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chapter10",
+              "path": "/docs/chapter10",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chapter2",
+              "path": "/docs/chapter2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chapter3",
+              "path": "/docs/chapter3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chapter4",
+              "path": "/docs/chapter4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chapter5",
+              "path": "/docs/chapter5",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chapter6",
+              "path": "/docs/chapter6",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chapter7",
+              "path": "/docs/chapter7",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chapter8",
+              "path": "/docs/chapter8",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chapter9",
+              "path": "/docs/chapter9",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "index",
+              "path": "/docs/"
+            },
+            {
+              "id": "intro/intro",
+              "path": "/docs/intro/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "README",
+              "path": "/docs/"
+            },
+            {
+              "id": "table_of_contents",
+              "path": "/docs/table_of_contents",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/book_summary",
+                "label": "Book Summary"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

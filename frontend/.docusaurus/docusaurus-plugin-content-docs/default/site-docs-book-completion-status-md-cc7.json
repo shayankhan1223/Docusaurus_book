@@ -1,0 +1,20 @@
+{
+  "id": "BOOK_COMPLETION_STATUS",
+  "title": "BOOK COMPLETION VERIFICATION",
+  "description": "Status: COMPLETE ✅",
+  "source": "@site/docs/BOOK_COMPLETION_STATUS.md",
+  "sourceDirName": ".",
+  "slug": "/BOOK_COMPLETION_STATUS",
+  "permalink": "/docs/BOOK_COMPLETION_STATUS",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shayankhan1223/docusaurus-docs/tree/main/docs/BOOK_COMPLETION_STATUS.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 632,
+  "frontMatter": {
+    "sidebar_label": "BOOK COMPLETION VERIFICATION",
+    "sidebar_position": 632,
+    "title": "BOOK COMPLETION VERIFICATION"
+  }
+}

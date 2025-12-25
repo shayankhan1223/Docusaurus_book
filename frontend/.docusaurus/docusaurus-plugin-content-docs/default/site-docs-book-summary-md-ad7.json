@@ -1,0 +1,25 @@
+{
+  "id": "book_summary",
+  "title": "Physical AI and Robotics Book - Complete Structure",
+  "description": "Overview",
+  "source": "@site/docs/book_summary.md",
+  "sourceDirName": ".",
+  "slug": "/book_summary",
+  "permalink": "/docs/book_summary",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shayankhan1223/docusaurus-docs/tree/main/docs/book_summary.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 17,
+  "frontMatter": {
+    "sidebar_label": "Physical AI and Robotics Book - Complete Structure",
+    "sidebar_position": 17,
+    "title": "Physical AI and Robotics Book - Complete Structure"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Table of Contents: Physical AI and Robotics",
+    "permalink": "/docs/table_of_contents"
+  }
+}

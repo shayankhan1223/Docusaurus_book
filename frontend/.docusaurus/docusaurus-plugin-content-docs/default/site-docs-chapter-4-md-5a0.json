@@ -1,0 +1,29 @@
+{
+  "id": "chapter4",
+  "title": "Chapter 4: Perception Systems for Physical AI",
+  "description": "1. Conceptual Foundation",
+  "source": "@site/docs/chapter4.md",
+  "sourceDirName": ".",
+  "slug": "/chapter4",
+  "permalink": "/docs/chapter4",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shayankhan1223/docusaurus-docs/tree/main/docs/chapter4.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 204,
+  "frontMatter": {
+    "sidebar_label": "Chapter 4: Perception Systems for Physical AI",
+    "sidebar_position": 204,
+    "title": "Chapter 4: Perception Systems for Physical AI"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 3: Simulation Environments - Gazebo, Isaac, Unity",
+    "permalink": "/docs/chapter3"
+  },
+  "next": {
+    "title": "Chapter 5: Planning and Navigation in Physical Space",
+    "permalink": "/docs/chapter5"
+  }
+}

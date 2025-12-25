@@ -1,0 +1,20 @@
+{
+  "id": "README",
+  "title": "Physical AI and Robotics Book",
+  "description": "This directory contains a comprehensive technical book on Physical AI and Robotics, covering the complete journey from theory to real-world deployment of embodied intelligence systems.",
+  "source": "@site/docs/README.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/docs/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shayankhan1223/docusaurus-docs/tree/main/docs/README.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 853,
+  "frontMatter": {
+    "sidebar_label": "Physical AI and Robotics Book",
+    "sidebar_position": 853,
+    "title": "Physical AI and Robotics Book"
+  }
+}

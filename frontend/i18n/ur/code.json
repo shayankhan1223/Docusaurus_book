@@ -1,0 +1,130 @@
+{
+  "theme.docs.sidebar.expandButtonTitle": {
+    "message": "سائڈ بار کو پھیلائیں",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.docs.sidebar.expandButtonAriaLabel": {
+    "message": "سائڈ بار کو پھیلائیں",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.ErrorPageContent.title": {
+    "message": "صفحہ میں کچھ خرابی ہے",
+    "description": "The title of the fallback page when the page errors"
+  },
+  "theme.ErrorPageContent.tryAgain": {
+    "message": "دوبارہ کوشش کریں",
+    "description": "The label of the button to try again when the page errors"
+  },
+  "theme.NotFound.title": {
+    "message": "صفحہ نہیں ملا",
+    "description": "The title of the 404 page"
+  },
+  "theme.NotFound.p1": {
+    "message": "آپ جو صفحہ تلاش کر رہے تھے وہ ہمیں نہیں ملا۔",
+    "description": "The first paragraph of the 404 page"
+  },
+  "theme.NotFound.p2": {
+    "message": "براہ کرم سائٹ کے منتظم سے رابطہ کریں تاکہ وہ صفحہ ہٹا دیں۔",
+    "description": "The 2nd paragraph of the 404 page"
+  },
+  "theme.TOCCollapsible.toggleButtonLabel": {
+    "message": "اس صفحہ پر",
+    "description": "The label used by the button on the collapsible TOC component"
+  },
+  "theme.admonition.caution": {
+    "message": "احتیاط",
+    "description": "The default label used for the Caution admonition (:::caution)"
+  },
+  "theme.admonition.danger": {
+    "message": "خطرہ",
+    "description": "The default label used for the Danger admonition (:::danger)"
+  },
+  "theme.admonition.info": {
+    "message": "معلومات",
+    "description": "The default label used for the Info admonition (:::info)"
+  },
+  "theme.admonition.note": {
+    "message": "نوٹ",
+    "description": "The default label used for the Note admonition (:::note)"
+  },
+  "theme.admonition.tip": {
+    "message": "ٹپ",
+    "description": "The default label used for the Tip admonition (:::tip)"
+  },
+  "theme.AnnouncementBar.closeButtonAriaLabel": {
+    "message": "بند کریں",
+    "description": "The ARIA label for close button of announcement bar"
+  },
+  "theme.blog.paginator.navAriaLabel": {
+    "message": "بلاگ فہرست کا صفحہ چلانا",
+    "description": "The ARIA label for the blog pagination"
+  },
+  "theme.blog.paginator.newerEntries": {
+    "message": "جدید اندراجات",
+    "description": "The label used to navigate to the newer blog entries"
+  },
+  "theme.blog.paginator.olderEntries": {
+    "message": "پرانے اندراجات",
+    "description": "The label used to navigate to the older blog entries"
+  },
+  "theme.blog.post.paginator.navAriaLabel": {
+    "message": "بلاگ پوسٹ کا صفحہ چلانا",
+    "description": "The ARIA label for the blog posts pagination"
+  },
+  "theme.blog.post.paginator.newerPost": {
+    "message": "جدید پوسٹ",
+    "description": "The label used to navigate to the newer blog post"
+  },
+  "theme.blog.post.paginator.olderPost": {
+    "message": "پرانی پوسٹ",
+    "description": "The label used to navigate to the older blog post"
+  },
+  "theme.CodeBlock.copied": {
+    "message": "کاپی ہو گیا",
+    "description": "The copied button label on code blocks"
+  },
+  "theme.CodeBlock.copyButtonAriaLabel": {
+    "message": "کوڈ کو کلپ بورڈ پر کاپی کریں",
+    "description": "The ARIA label for copy code blocks button"
+  },
+  "theme.CodeBlock.copy": {
+    "message": "کاپی کریں",
+    "description": "The copy button label on code blocks"
+  },
+  "theme.CodeBlock.wordWrapToggle": {
+    "message": "لفافہ کو تبدیل کریں",
+    "description": "The title attribute for toggle word wrapping button of code block lines"
+  },
+  "theme.docs.breadcrumbs.home": {
+    "message": "ہوم",
+    "description": "The ARIA label for the home page in the breadcrumbs"
+  },
+  "theme.docs.sidebar.collapseButtonTitle": {
+    "message": "سائڈ بار کو سکیڑیں",
+    "description": "The title attribute for the collapse button of doc sidebar"
+  },
+  "theme.docs.sidebar.collapseButtonAriaLabel": {
+    "message": "سائڈ بار کو سکیڑیں",
+    "description": "The title attribute for the collapse button of doc sidebar"
+  },
+  "theme.docs.sidebar.navAriaLabel": {
+    "message": "دستاویزات کی سائڈ بار",
+    "description": "The ARIA label for the sidebar navigation"
+  },
+  "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
+    "message": "نیویگیشن بار بند کریں",
+    "description": "The ARIA label for close button of mobile sidebar"
+  },
+  "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
+    "message": "← مینو میں واپس جائیں",
+    "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar"
+  },
+  "theme.navbar.mobileVersionsDropdown.label": {
+    "message": "ورژن",
+    "description": "The label for the navbar versions dropdown on mobile"
+  },
+  "theme.common.skipToMainContent": {
+    "message": "مین کنٹینٹ پر جائیں",
+    "description": "The skip to content label used for accessibility"
+  }
+}

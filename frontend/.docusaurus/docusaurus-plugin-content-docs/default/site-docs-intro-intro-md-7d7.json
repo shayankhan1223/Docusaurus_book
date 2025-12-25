@@ -1,0 +1,27 @@
+{
+  "id": "intro/intro",
+  "title": "Introduction",
+  "description": "Welcome to our documentation! This site provides comprehensive guides and references for our platform.",
+  "source": "@site/docs/intro/intro.md",
+  "sourceDirName": "intro",
+  "slug": "/intro/",
+  "permalink": "/docs/intro/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shayankhan1223/docusaurus-docs/tree/main/docs/intro/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Table of Contents: Physical AI and Robotics",
+    "permalink": "/docs/table_of_contents"
+  },
+  "next": {
+    "title": "Chapter 1: Introduction to Physical AI and Embodied Intelligence",
+    "permalink": "/docs/chapter1"
+  }
+}

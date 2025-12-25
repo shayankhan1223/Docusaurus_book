@@ -1,0 +1,29 @@
+{
+  "id": "chapter5",
+  "title": "Chapter 5: Planning and Navigation in Physical Space",
+  "description": "1. Conceptual Foundation",
+  "source": "@site/docs/chapter5.md",
+  "sourceDirName": ".",
+  "slug": "/chapter5",
+  "permalink": "/docs/chapter5",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shayankhan1223/docusaurus-docs/tree/main/docs/chapter5.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 234,
+  "frontMatter": {
+    "sidebar_label": "Chapter 5: Planning and Navigation in Physical Space",
+    "sidebar_position": 234,
+    "title": "Chapter 5: Planning and Navigation in Physical Space"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 4: Perception Systems for Physical AI",
+    "permalink": "/docs/chapter4"
+  },
+  "next": {
+    "title": "Chapter 6: Control Systems and Actuation",
+    "permalink": "/docs/chapter6"
+  }
+}

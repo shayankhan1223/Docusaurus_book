@@ -1,0 +1,216 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Physical AI and Robotics Book - Complete Structure",
+        "href": "/docs/book_summary",
+        "docId": "book_summary",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Table of Contents: Physical AI and Robotics",
+        "href": "/docs/table_of_contents",
+        "docId": "table_of_contents",
+        "unlisted": false
+      },
+      {
+        "type": "category",
+        "label": "Getting Started",
+        "items": [
+          {
+            "type": "link",
+            "label": "Introduction",
+            "href": "/docs/intro/",
+            "docId": "intro/intro",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Core Chapters",
+        "items": [
+          {
+            "type": "link",
+            "label": "Chapter 1: Introduction to Physical AI and Embodied Intelligence",
+            "href": "/docs/chapter1",
+            "docId": "chapter1",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Chapter 2: ROS 2 Fundamentals for Humanoid Robots",
+            "href": "/docs/chapter2",
+            "docId": "chapter2",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Chapter 3: Simulation Environments - Gazebo, Isaac, Unity",
+            "href": "/docs/chapter3",
+            "docId": "chapter3",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Chapter 4: Perception Systems for Physical AI",
+            "href": "/docs/chapter4",
+            "docId": "chapter4",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Chapter 5: Planning and Navigation in Physical Space",
+            "href": "/docs/chapter5",
+            "docId": "chapter5",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Chapter 6: Control Systems and Actuation",
+            "href": "/docs/chapter6",
+            "docId": "chapter6",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Chapter 7: Vision-Language-Action Pipeline",
+            "href": "/docs/chapter7",
+            "docId": "chapter7",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Chapter 8: Humanoid-Specific Challenges and Solutions",
+            "href": "/docs/chapter8",
+            "docId": "chapter8",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Chapter 9: Simulation to Real-World Deployment",
+            "href": "/docs/chapter9",
+            "docId": "chapter9",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Chapter 10: Capstone - Complete Embodied AI System",
+            "href": "/docs/chapter10",
+            "docId": "chapter10",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      }
+    ]
+  },
+  "docs": {
+    "BOOK_COMPLETION_STATUS": {
+      "id": "BOOK_COMPLETION_STATUS",
+      "title": "BOOK COMPLETION VERIFICATION",
+      "description": "Status: COMPLETE ✅"
+    },
+    "book_summary": {
+      "id": "book_summary",
+      "title": "Physical AI and Robotics Book - Complete Structure",
+      "description": "Overview",
+      "sidebar": "tutorialSidebar"
+    },
+    "chapter1": {
+      "id": "chapter1",
+      "title": "Chapter 1: Introduction to Physical AI and Embodied Intelligence",
+      "description": "1. Conceptual Foundation",
+      "sidebar": "tutorialSidebar"
+    },
+    "chapter10": {
+      "id": "chapter10",
+      "title": "Chapter 10: Capstone - Complete Embodied AI System",
+      "description": "1. Conceptual Foundation",
+      "sidebar": "tutorialSidebar"
+    },
+    "chapter2": {
+      "id": "chapter2",
+      "title": "Chapter 2: ROS 2 Fundamentals for Humanoid Robots",
+      "description": "1. Conceptual Foundation",
+      "sidebar": "tutorialSidebar"
+    },
+    "chapter3": {
+      "id": "chapter3",
+      "title": "Chapter 3: Simulation Environments - Gazebo, Isaac, Unity",
+      "description": "1. Conceptual Foundation",
+      "sidebar": "tutorialSidebar"
+    },
+    "chapter4": {
+      "id": "chapter4",
+      "title": "Chapter 4: Perception Systems for Physical AI",
+      "description": "1. Conceptual Foundation",
+      "sidebar": "tutorialSidebar"
+    },
+    "chapter5": {
+      "id": "chapter5",
+      "title": "Chapter 5: Planning and Navigation in Physical Space",
+      "description": "1. Conceptual Foundation",
+      "sidebar": "tutorialSidebar"
+    },
+    "chapter6": {
+      "id": "chapter6",
+      "title": "Chapter 6: Control Systems and Actuation",
+      "description": "1. Conceptual Foundation",
+      "sidebar": "tutorialSidebar"
+    },
+    "chapter7": {
+      "id": "chapter7",
+      "title": "Chapter 7: Vision-Language-Action Pipeline",
+      "description": "1. Conceptual Foundation",
+      "sidebar": "tutorialSidebar"
+    },
+    "chapter8": {
+      "id": "chapter8",
+      "title": "Chapter 8: Humanoid-Specific Challenges and Solutions",
+      "description": "1. Conceptual Foundation",
+      "sidebar": "tutorialSidebar"
+    },
+    "chapter9": {
+      "id": "chapter9",
+      "title": "Chapter 9: Simulation to Real-World Deployment",
+      "description": "1. Conceptual Foundation",
+      "sidebar": "tutorialSidebar"
+    },
+    "index": {
+      "id": "index",
+      "title": "Physical AI and Robotics: A Comprehensive Guide to Embodied Intelligence",
+      "description": "Welcome to the Complete Textbook"
+    },
+    "intro/intro": {
+      "id": "intro/intro",
+      "title": "Introduction",
+      "description": "Welcome to our documentation! This site provides comprehensive guides and references for our platform.",
+      "sidebar": "tutorialSidebar"
+    },
+    "README": {
+      "id": "README",
+      "title": "Physical AI and Robotics Book",
+      "description": "This directory contains a comprehensive technical book on Physical AI and Robotics, covering the complete journey from theory to real-world deployment of embodied intelligence systems."
+    },
+    "table_of_contents": {
+      "id": "table_of_contents",
+      "title": "Table of Contents: Physical AI and Robotics",
+      "description": "Preface",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "chapter6",
+  "title": "Chapter 6: Control Systems and Actuation",
+  "description": "1. Conceptual Foundation",
+  "source": "@site/docs/chapter6.md",
+  "sourceDirName": ".",
+  "slug": "/chapter6",
+  "permalink": "/docs/chapter6",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shayankhan1223/docusaurus-docs/tree/main/docs/chapter6.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 762,
+  "frontMatter": {
+    "sidebar_label": "Chapter 6: Control Systems and Actuation",
+    "sidebar_position": 762,
+    "title": "Chapter 6: Control Systems and Actuation"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 5: Planning and Navigation in Physical Space",
+    "permalink": "/docs/chapter5"
+  },
+  "next": {
+    "title": "Chapter 7: Vision-Language-Action Pipeline",
+    "permalink": "/docs/chapter7"
+  }
+}

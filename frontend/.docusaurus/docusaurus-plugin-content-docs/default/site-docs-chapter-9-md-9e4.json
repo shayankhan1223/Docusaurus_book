@@ -1,0 +1,29 @@
+{
+  "id": "chapter9",
+  "title": "Chapter 9: Simulation to Real-World Deployment",
+  "description": "1. Conceptual Foundation",
+  "source": "@site/docs/chapter9.md",
+  "sourceDirName": ".",
+  "slug": "/chapter9",
+  "permalink": "/docs/chapter9",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shayankhan1223/docusaurus-docs/tree/main/docs/chapter9.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 307,
+  "frontMatter": {
+    "sidebar_label": "Chapter 9: Simulation to Real-World Deployment",
+    "sidebar_position": 307,
+    "title": "Chapter 9: Simulation to Real-World Deployment"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 8: Humanoid-Specific Challenges and Solutions",
+    "permalink": "/docs/chapter8"
+  },
+  "next": {
+    "title": "Chapter 10: Capstone - Complete Embodied AI System",
+    "permalink": "/docs/chapter10"
+  }
+}

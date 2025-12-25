@@ -1,0 +1,29 @@
+{
+  "id": "table_of_contents",
+  "title": "Table of Contents: Physical AI and Robotics",
+  "description": "Preface",
+  "source": "@site/docs/table_of_contents.md",
+  "sourceDirName": ".",
+  "slug": "/table_of_contents",
+  "permalink": "/docs/table_of_contents",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shayankhan1223/docusaurus-docs/tree/main/docs/table_of_contents.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 148,
+  "frontMatter": {
+    "sidebar_label": "Table of Contents: Physical AI and Robotics",
+    "sidebar_position": 148,
+    "title": "Table of Contents: Physical AI and Robotics"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Physical AI and Robotics Book - Complete Structure",
+    "permalink": "/docs/book_summary"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/docs/intro/"
+  }
+}

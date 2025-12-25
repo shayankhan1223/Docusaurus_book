@@ -1,0 +1,564 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "editUrl": "https://github.com/shayankhan1223/docusaurus-docs/tree/main/docs",
+          "editUrlLocalized": "https://github.com/shayankhan1223/docusaurus-docs/tree/main/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "D:\\testingthings\\auth-playground\\chatkit\\frontend\\sidebars.js",
+          "contentPath": "D:\\testingthings\\auth-playground\\chatkit\\frontend\\docs",
+          "contentPathLocalized": "D:\\testingthings\\auth-playground\\chatkit\\frontend\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "id": "BOOK_COMPLETION_STATUS",
+              "title": "BOOK COMPLETION VERIFICATION",
+              "description": "Status: COMPLETE ✅",
+              "source": "@site/docs/BOOK_COMPLETION_STATUS.md",
+              "sourceDirName": ".",
+              "slug": "/BOOK_COMPLETION_STATUS",
+              "permalink": "/docs/BOOK_COMPLETION_STATUS",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/shayankhan1223/docusaurus-docs/tree/main/docs/BOOK_COMPLETION_STATUS.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 632,
+              "frontMatter": {
+                "sidebar_label": "BOOK COMPLETION VERIFICATION",
+                "sidebar_position": 632,
+                "title": "BOOK COMPLETION VERIFICATION"
+              }
+            },
+            {
+              "id": "book_summary",
+              "title": "Physical AI and Robotics Book - Complete Structure",
+              "description": "Overview",
+              "source": "@site/docs/book_summary.md",
+              "sourceDirName": ".",
+              "slug": "/book_summary",
+              "permalink": "/docs/book_summary",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/shayankhan1223/docusaurus-docs/tree/main/docs/book_summary.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 17,
+              "frontMatter": {
+                "sidebar_label": "Physical AI and Robotics Book - Complete Structure",
+                "sidebar_position": 17,
+                "title": "Physical AI and Robotics Book - Complete Structure"
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Table of Contents: Physical AI and Robotics",
+                "permalink": "/docs/table_of_contents"
+              }
+            },
+            {
+              "id": "chapter1",
+              "title": "Chapter 1: Introduction to Physical AI and Embodied Intelligence",
+              "description": "1. Conceptual Foundation",
+              "source": "@site/docs/chapter1.md",
+              "sourceDirName": ".",
+              "slug": "/chapter1",
+              "permalink": "/docs/chapter1",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/shayankhan1223/docusaurus-docs/tree/main/docs/chapter1.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 425,
+              "frontMatter": {
+                "sidebar_label": "Chapter 1: Introduction to Physical AI and Embodied Intelligence",
+                "sidebar_position": 425,
+                "title": "Chapter 1: Introduction to Physical AI and Embodied Intelligence"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction",
+                "permalink": "/docs/intro/"
+              },
+              "next": {
+                "title": "Chapter 2: ROS 2 Fundamentals for Humanoid Robots",
+                "permalink": "/docs/chapter2"
+              }
+            },
+            {
+              "id": "chapter10",
+              "title": "Chapter 10: Capstone - Complete Embodied AI System",
+              "description": "1. Conceptual Foundation",
+              "source": "@site/docs/chapter10.md",
+              "sourceDirName": ".",
+              "slug": "/chapter10",
+              "permalink": "/docs/chapter10",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/shayankhan1223/docusaurus-docs/tree/main/docs/chapter10.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 475,
+              "frontMatter": {
+                "sidebar_label": "Chapter 10: Capstone - Complete Embodied AI System",
+                "sidebar_position": 475,
+                "title": "Chapter 10: Capstone - Complete Embodied AI System"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chapter 9: Simulation to Real-World Deployment",
+                "permalink": "/docs/chapter9"
+              }
+            },
+            {
+              "id": "chapter2",
+              "title": "Chapter 2: ROS 2 Fundamentals for Humanoid Robots",
+              "description": "1. Conceptual Foundation",
+              "source": "@site/docs/chapter2.md",
+              "sourceDirName": ".",
+              "slug": "/chapter2",
+              "permalink": "/docs/chapter2",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/shayankhan1223/docusaurus-docs/tree/main/docs/chapter2.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 942,
+              "frontMatter": {
+                "sidebar_label": "Chapter 2: ROS 2 Fundamentals for Humanoid Robots",
+                "sidebar_position": 942,
+                "title": "Chapter 2: ROS 2 Fundamentals for Humanoid Robots"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chapter 1: Introduction to Physical AI and Embodied Intelligence",
+                "permalink": "/docs/chapter1"
+              },
+              "next": {
+                "title": "Chapter 3: Simulation Environments - Gazebo, Isaac, Unity",
+                "permalink": "/docs/chapter3"
+              }
+            },
+            {
+              "id": "chapter3",
+              "title": "Chapter 3: Simulation Environments - Gazebo, Isaac, Unity",
+              "description": "1. Conceptual Foundation",
+              "source": "@site/docs/chapter3.md",
+              "sourceDirName": ".",
+              "slug": "/chapter3",
+              "permalink": "/docs/chapter3",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/shayankhan1223/docusaurus-docs/tree/main/docs/chapter3.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 377,
+              "frontMatter": {
+                "sidebar_label": "Chapter 3: Simulation Environments - Gazebo, Isaac, Unity",
+                "sidebar_position": 377,
+                "title": "Chapter 3: Simulation Environments - Gazebo, Isaac, Unity"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chapter 2: ROS 2 Fundamentals for Humanoid Robots",
+                "permalink": "/docs/chapter2"
+              },
+              "next": {
+                "title": "Chapter 4: Perception Systems for Physical AI",
+                "permalink": "/docs/chapter4"
+              }
+            },
+            {
+              "id": "chapter4",
+              "title": "Chapter 4: Perception Systems for Physical AI",
+              "description": "1. Conceptual Foundation",
+              "source": "@site/docs/chapter4.md",
+              "sourceDirName": ".",
+              "slug": "/chapter4",
+              "permalink": "/docs/chapter4",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/shayankhan1223/docusaurus-docs/tree/main/docs/chapter4.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 204,
+              "frontMatter": {
+                "sidebar_label": "Chapter 4: Perception Systems for Physical AI",
+                "sidebar_position": 204,
+                "title": "Chapter 4: Perception Systems for Physical AI"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chapter 3: Simulation Environments - Gazebo, Isaac, Unity",
+                "permalink": "/docs/chapter3"
+              },
+              "next": {
+                "title": "Chapter 5: Planning and Navigation in Physical Space",
+                "permalink": "/docs/chapter5"
+              }
+            },
+            {
+              "id": "chapter5",
+              "title": "Chapter 5: Planning and Navigation in Physical Space",
+              "description": "1. Conceptual Foundation",
+              "source": "@site/docs/chapter5.md",
+              "sourceDirName": ".",
+              "slug": "/chapter5",
+              "permalink": "/docs/chapter5",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/shayankhan1223/docusaurus-docs/tree/main/docs/chapter5.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 234,
+              "frontMatter": {
+                "sidebar_label": "Chapter 5: Planning and Navigation in Physical Space",
+                "sidebar_position": 234,
+                "title": "Chapter 5: Planning and Navigation in Physical Space"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chapter 4: Perception Systems for Physical AI",
+                "permalink": "/docs/chapter4"
+              },
+              "next": {
+                "title": "Chapter 6: Control Systems and Actuation",
+                "permalink": "/docs/chapter6"
+              }
+            },
+            {
+              "id": "chapter6",
+              "title": "Chapter 6: Control Systems and Actuation",
+              "description": "1. Conceptual Foundation",
+              "source": "@site/docs/chapter6.md",
+              "sourceDirName": ".",
+              "slug": "/chapter6",
+              "permalink": "/docs/chapter6",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/shayankhan1223/docusaurus-docs/tree/main/docs/chapter6.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 762,
+              "frontMatter": {
+                "sidebar_label": "Chapter 6: Control Systems and Actuation",
+                "sidebar_position": 762,
+                "title": "Chapter 6: Control Systems and Actuation"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chapter 5: Planning and Navigation in Physical Space",
+                "permalink": "/docs/chapter5"
+              },
+              "next": {
+                "title": "Chapter 7: Vision-Language-Action Pipeline",
+                "permalink": "/docs/chapter7"
+              }
+            },
+            {
+              "id": "chapter7",
+              "title": "Chapter 7: Vision-Language-Action Pipeline",
+              "description": "1. Conceptual Foundation",
+              "source": "@site/docs/chapter7.md",
+              "sourceDirName": ".",
+              "slug": "/chapter7",
+              "permalink": "/docs/chapter7",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/shayankhan1223/docusaurus-docs/tree/main/docs/chapter7.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 745,
+              "frontMatter": {
+                "sidebar_label": "Chapter 7: Vision-Language-Action Pipeline",
+                "sidebar_position": 745,
+                "title": "Chapter 7: Vision-Language-Action Pipeline"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chapter 6: Control Systems and Actuation",
+                "permalink": "/docs/chapter6"
+              },
+              "next": {
+                "title": "Chapter 8: Humanoid-Specific Challenges and Solutions",
+                "permalink": "/docs/chapter8"
+              }
+            },
+            {
+              "id": "chapter8",
+              "title": "Chapter 8: Humanoid-Specific Challenges and Solutions",
+              "description": "1. Conceptual Foundation",
+              "source": "@site/docs/chapter8.md",
+              "sourceDirName": ".",
+              "slug": "/chapter8",
+              "permalink": "/docs/chapter8",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/shayankhan1223/docusaurus-docs/tree/main/docs/chapter8.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 707,
+              "frontMatter": {
+                "sidebar_label": "Chapter 8: Humanoid-Specific Challenges and Solutions",
+                "sidebar_position": 707,
+                "title": "Chapter 8: Humanoid-Specific Challenges and Solutions"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chapter 7: Vision-Language-Action Pipeline",
+                "permalink": "/docs/chapter7"
+              },
+              "next": {
+                "title": "Chapter 9: Simulation to Real-World Deployment",
+                "permalink": "/docs/chapter9"
+              }
+            },
+            {
+              "id": "chapter9",
+              "title": "Chapter 9: Simulation to Real-World Deployment",
+              "description": "1. Conceptual Foundation",
+              "source": "@site/docs/chapter9.md",
+              "sourceDirName": ".",
+              "slug": "/chapter9",
+              "permalink": "/docs/chapter9",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/shayankhan1223/docusaurus-docs/tree/main/docs/chapter9.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 307,
+              "frontMatter": {
+                "sidebar_label": "Chapter 9: Simulation to Real-World Deployment",
+                "sidebar_position": 307,
+                "title": "Chapter 9: Simulation to Real-World Deployment"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chapter 8: Humanoid-Specific Challenges and Solutions",
+                "permalink": "/docs/chapter8"
+              },
+              "next": {
+                "title": "Chapter 10: Capstone - Complete Embodied AI System",
+                "permalink": "/docs/chapter10"
+              }
+            },
+            {
+              "id": "index",
+              "title": "Physical AI and Robotics: A Comprehensive Guide to Embodied Intelligence",
+              "description": "Welcome to the Complete Textbook",
+              "source": "@site/docs/index.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/docs/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/shayankhan1223/docusaurus-docs/tree/main/docs/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 595,
+              "frontMatter": {
+                "sidebar_label": "Physical AI and Robotics: A Comprehensive Guide to Embodied Intelligence",
+                "sidebar_position": 595,
+                "title": "Physical AI and Robotics: A Comprehensive Guide to Embodied Intelligence"
+              }
+            },
+            {
+              "id": "intro/intro",
+              "title": "Introduction",
+              "description": "Welcome to our documentation! This site provides comprehensive guides and references for our platform.",
+              "source": "@site/docs/intro/intro.md",
+              "sourceDirName": "intro",
+              "slug": "/intro/",
+              "permalink": "/docs/intro/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/shayankhan1223/docusaurus-docs/tree/main/docs/intro/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Table of Contents: Physical AI and Robotics",
+                "permalink": "/docs/table_of_contents"
+              },
+              "next": {
+                "title": "Chapter 1: Introduction to Physical AI and Embodied Intelligence",
+                "permalink": "/docs/chapter1"
+              }
+            },
+            {
+              "id": "README",
+              "title": "Physical AI and Robotics Book",
+              "description": "This directory contains a comprehensive technical book on Physical AI and Robotics, covering the complete journey from theory to real-world deployment of embodied intelligence systems.",
+              "source": "@site/docs/README.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/docs/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/shayankhan1223/docusaurus-docs/tree/main/docs/README.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 853,
+              "frontMatter": {
+                "sidebar_label": "Physical AI and Robotics Book",
+                "sidebar_position": 853,
+                "title": "Physical AI and Robotics Book"
+              }
+            },
+            {
+              "id": "table_of_contents",
+              "title": "Table of Contents: Physical AI and Robotics",
+              "description": "Preface",
+              "source": "@site/docs/table_of_contents.md",
+              "sourceDirName": ".",
+              "slug": "/table_of_contents",
+              "permalink": "/docs/table_of_contents",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/shayankhan1223/docusaurus-docs/tree/main/docs/table_of_contents.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 148,
+              "frontMatter": {
+                "sidebar_label": "Table of Contents: Physical AI and Robotics",
+                "sidebar_position": 148,
+                "title": "Table of Contents: Physical AI and Robotics"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Physical AI and Robotics Book - Complete Structure",
+                "permalink": "/docs/book_summary"
+              },
+              "next": {
+                "title": "Introduction",
+                "permalink": "/docs/intro/"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "book_summary",
+                "label": "Book Summary",
+                "translatable": true
+              },
+              {
+                "type": "doc",
+                "id": "table_of_contents",
+                "label": "Table of Contents",
+                "translatable": true
+              },
+              {
+                "type": "category",
+                "label": "Getting Started",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "intro/intro"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Core Chapters",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "chapter1",
+                    "label": "Chapter 1: Introduction to Physical AI and Embodied Intelligence",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "chapter2",
+                    "label": "Chapter 2: ROS 2 Fundamentals for Humanoid Robots",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "chapter3",
+                    "label": "Chapter 3: Simulation Environments - Gazebo, Isaac, Unity",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "chapter4",
+                    "label": "Chapter 4: Perception Systems for Physical AI",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "chapter5",
+                    "label": "Chapter 5: Planning and Navigation in Physical Space",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "chapter6",
+                    "label": "Chapter 6: Control Systems and Actuation",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "chapter7",
+                    "label": "Chapter 7: Vision-Language-Action Pipeline",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "chapter8",
+                    "label": "Chapter 8: Humanoid-Specific Challenges and Solutions",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "chapter9",
+                    "label": "Chapter 9: Simulation to Real-World Deployment",
+                    "translatable": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "chapter10",
+                    "label": "Chapter 10: Capstone - Complete Embodied AI System",
+                    "translatable": true
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

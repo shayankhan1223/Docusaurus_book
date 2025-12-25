@@ -1,0 +1,29 @@
+{
+  "id": "chapter3",
+  "title": "Chapter 3: Simulation Environments - Gazebo, Isaac, Unity",
+  "description": "1. Conceptual Foundation",
+  "source": "@site/docs/chapter3.md",
+  "sourceDirName": ".",
+  "slug": "/chapter3",
+  "permalink": "/docs/chapter3",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shayankhan1223/docusaurus-docs/tree/main/docs/chapter3.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 377,
+  "frontMatter": {
+    "sidebar_label": "Chapter 3: Simulation Environments - Gazebo, Isaac, Unity",
+    "sidebar_position": 377,
+    "title": "Chapter 3: Simulation Environments - Gazebo, Isaac, Unity"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 2: ROS 2 Fundamentals for Humanoid Robots",
+    "permalink": "/docs/chapter2"
+  },
+  "next": {
+    "title": "Chapter 4: Perception Systems for Physical AI",
+    "permalink": "/docs/chapter4"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "chapter1",
+  "title": "Chapter 1: Introduction to Physical AI and Embodied Intelligence",
+  "description": "1. Conceptual Foundation",
+  "source": "@site/docs/chapter1.md",
+  "sourceDirName": ".",
+  "slug": "/chapter1",
+  "permalink": "/docs/chapter1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shayankhan1223/docusaurus-docs/tree/main/docs/chapter1.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 425,
+  "frontMatter": {
+    "sidebar_label": "Chapter 1: Introduction to Physical AI and Embodied Intelligence",
+    "sidebar_position": 425,
+    "title": "Chapter 1: Introduction to Physical AI and Embodied Intelligence"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/intro/"
+  },
+  "next": {
+    "title": "Chapter 2: ROS 2 Fundamentals for Humanoid Robots",
+    "permalink": "/docs/chapter2"
+  }
+}

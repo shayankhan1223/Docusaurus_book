@@ -1,0 +1,25 @@
+{
+  "id": "chapter10",
+  "title": "Chapter 10: Capstone - Complete Embodied AI System",
+  "description": "1. Conceptual Foundation",
+  "source": "@site/docs/chapter10.md",
+  "sourceDirName": ".",
+  "slug": "/chapter10",
+  "permalink": "/docs/chapter10",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shayankhan1223/docusaurus-docs/tree/main/docs/chapter10.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 475,
+  "frontMatter": {
+    "sidebar_label": "Chapter 10: Capstone - Complete Embodied AI System",
+    "sidebar_position": 475,
+    "title": "Chapter 10: Capstone - Complete Embodied AI System"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 9: Simulation to Real-World Deployment",
+    "permalink": "/docs/chapter9"
+  }
+}

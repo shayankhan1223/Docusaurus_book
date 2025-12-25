@@ -1,0 +1,29 @@
+{
+  "id": "chapter8",
+  "title": "Chapter 8: Humanoid-Specific Challenges and Solutions",
+  "description": "1. Conceptual Foundation",
+  "source": "@site/docs/chapter8.md",
+  "sourceDirName": ".",
+  "slug": "/chapter8",
+  "permalink": "/docs/chapter8",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/shayankhan1223/docusaurus-docs/tree/main/docs/chapter8.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 707,
+  "frontMatter": {
+    "sidebar_label": "Chapter 8: Humanoid-Specific Challenges and Solutions",
+    "sidebar_position": 707,
+    "title": "Chapter 8: Humanoid-Specific Challenges and Solutions"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 7: Vision-Language-Action Pipeline",
+    "permalink": "/docs/chapter7"
+  },
+  "next": {
+    "title": "Chapter 9: Simulation to Real-World Deployment",
+    "permalink": "/docs/chapter9"
+  }
+}
